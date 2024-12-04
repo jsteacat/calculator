@@ -1,0 +1,15 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "tsx src/index.ts"
+  },
+  "keywords": [],
+  "author": "Stepan Kormilin<ubscoder@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^4.19.2"
+  }
+}
